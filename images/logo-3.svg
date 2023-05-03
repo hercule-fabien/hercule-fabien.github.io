@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="236" height="40" viewBox="0 0 236 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g filter="url(#filter0_d)">
+    <text style="fill: rgb(233, 185, 73); font-family: Arial, sans-serif; font-size: 24.1px; font-weight: 700; white-space: pre;" x="101.805" y="28.007" transform="matrix(1, 0, 0, 1.056986, 0, -1.88863)">Glazkov</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 7.1px; font-weight: 700; white-space: pre;" x="56.248" y="22.042" transform="matrix(3.335268, 0, 0, 3.595049, -154.756149, -51.560318)">Vasily</text>
+  </g>
+  <defs>
+    <filter id="filter0_d" x="23.0713" y="7.5" width="180.652" height="30.793" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="4"/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+</svg>
